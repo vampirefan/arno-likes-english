@@ -2,7 +2,7 @@ name: Deployment to Github pages
 on:
   push:
     branches:
-      - master
+      - main
 env:
   REACT_APP_DEPLOY_ENV: pages
 jobs:
