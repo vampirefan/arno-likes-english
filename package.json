@@ -59,7 +59,7 @@
     "dev": "vite",
     "start": "vite",
     "build": "cross-env CI=false vite build --base=./",
-    "test": "echo \"No tests\"",
+    "commit": "git add . && czg && git push",
     "test:e2e": "playwright test",
     "lint": "eslint .",
     "prettier": "prettier --write .",
