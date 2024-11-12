@@ -1,0 +1,60 @@
+[
+  {
+    "name": "smile",
+    "trans": [
+      "n. 微笑；笑容；喜色",
+      "vt. 微笑着表示",
+      "vi. 微笑"
+    ],
+    "usphone": "smaɪl",
+    "ukphone": "smaɪl"
+  },
+  {
+    "name": "smoke",
+    "trans": [
+      "n. 烟；抽烟；无常的事物",
+      "vi. 冒烟，吸烟；抽烟；弥漫",
+      "vt. 吸烟；抽",
+      "时态:smoked, smoking, smokes"
+    ],
+    "usphone": "smok",
+    "ukphone": "sməʊk"
+  },
+  {
+    "name": "snack",
+    "trans": [
+      "n. 小吃，快餐；一份，部分",
+      "vi. 吃快餐，吃点心"
+    ],
+    "usphone": "snæk",
+    "ukphone": "snæk"
+  },
+  {
+    "name": "swallow",
+    "trans": [
+      "vt. 忍受；吞没",
+      "vi. 吞下；咽下",
+      "n. 燕子；一次吞咽的量",
+      "时态:swallowed, swallowing, swallows名 词:swallower"
+    ],
+    "usphone": "ˈswɑːloʊ",
+    "ukphone": "ˈswɒləʊ"
+  },
+  {
+    "name": "snake",
+    "trans": [
+      "n. 蛇阴险的人",
+      "时态:snaked, snaking, snakes"
+    ],
+    "usphone": "snek",
+    "ukphone": "sneɪk"
+  },
+  {
+    "name": "snap",
+    "trans": [
+      "n.猛咬；劈啪声；突然折断adj.突然的vt.突然折断，拉断；猛咬；啪地关上vi.咬；厉声说；咯嗒一声关上"
+    ],
+    "usphone": "snæp",
+    "ukphone": "snæp"
+  }
+]
