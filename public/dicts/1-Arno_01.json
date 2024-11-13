@@ -1,5 +1,21 @@
 [
   {
+    "name": "can",
+    "trans": [
+      "conj. 能， 可以"
+    ],
+    "usphone": "kæn",
+    "ukphone": "kən"
+  },
+  {
+    "name": "swamp",
+    "trans": [
+      "n. 沼泽地;湿地"
+    ],
+    "usphone": "swɑːmp",
+    "ukphone": "swɒmp"
+  },
+  {
     "name": "smile",
     "trans": [
       "n. 微笑；笑容；喜色",
@@ -15,7 +31,7 @@
       "n. 烟；抽烟；无常的事物",
       "vi. 冒烟，吸烟；抽烟；弥漫",
       "vt. 吸烟；抽",
-      "时态:smoked, smoking, smokes"
+      "时态: smoked, smoking, smokes"
     ],
     "usphone": "smok",
     "ukphone": "sməʊk"
@@ -52,9 +68,28 @@
   {
     "name": "snap",
     "trans": [
-      "n.猛咬；劈啪声；突然折断adj.突然的vt.突然折断，拉断；猛咬；啪地关上vi.咬；厉声说；咯嗒一声关上"
+      "n.猛咬；劈啪声；突然折断",
+      "adj.突然的",
+      "vt.突然折断，拉断；猛咬；啪地关上",
+      "vi.咬；厉声说；咯嗒一声关上"
     ],
     "usphone": "snæp",
     "ukphone": "snæp"
+  },
+  {
+    "name": "swing",
+    "trans": [
+      "v. 摆动，摇摆，摇晃"
+    ],
+    "usphone": "swɪŋ",
+    "ukphone": "swɪŋ"
+  },
+  {
+    "name": "slither",
+    "trans": [
+      "v. （躯体）蜿蜒而行，曲折滑行"
+    ],
+    "usphone": "slɪð.ɚ",
+    "ukphone": "slɪð.ər"
   }
 ]
