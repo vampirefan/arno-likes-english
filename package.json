@@ -62,8 +62,7 @@
     "commit": "git add . && czg && git push",
     "test:e2e": "playwright test",
     "lint": "eslint .",
-    "prettier": "prettier --write .",
-    "prepare": "husky install"
+    "prettier": "prettier --write ."
   },
   "lint-staged": {
     "src/**/*.{js,jsx,ts,tsx,json,css,scss,md}": [
