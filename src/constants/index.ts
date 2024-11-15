@@ -13,6 +13,6 @@ export const CONFETTI_DEFAULTS = {
 } as confetti.Options
 
 export const defaultFontSizeConfig = {
-  foreignFont: 68,
-  translateFont: 22,
+  foreignFont: 78,
+  translateFont: 28,
 }
