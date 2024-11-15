@@ -91,5 +91,90 @@
     ],
     "usphone": "slɪð.ɚ",
     "ukphone": "slɪð.ər"
+  },
+  {
+    "name": "throw",
+    "trans": [
+      "v.扔"
+    ],
+    "usphone": "θro",
+    "ukphone": "θrəʊ"
+  },
+  {
+    "name": "catch",
+    "trans": [
+      "v.抓住"
+    ],
+    "usphone": "kætʃ",
+    "ukphone": "kætʃ"
+  },
+  {
+    "name": "fly",
+    "trans": [
+      "v. 飞，飞行；驾驶（飞机）；快速移动或经过；飘扬；经营（航线）；逃走",
+      "n. 苍蝇；裤子的拉链",
+      "adj. 机灵的，聪明的"
+    ],
+    "usphone": "flaɪ",
+    "ukphone": "flaɪ"
+  },
+  {
+    "name": "climb",
+    "trans": [
+      "v. 攀登，爬；上升，增长",
+      "n. 攀登，爬行"
+    ],
+    "usphone": "klaɪm",
+    "ukphone": "klaɪm"
+  },
+  {
+    "name": "dance",
+    "trans": [
+      "n. 舞蹈，跳舞；舞会，舞曲",
+      "v. 跳舞，跳动；使跳跃，使摆动"
+    ],
+    "usphone": "dæns",
+    "ukphone": "dɑːns"
+  },
+  {
+    "name": "run",
+    "trans": [
+      "v.跑步"
+    ],
+    "usphone": "rʌn",
+    "ukphone": "rʌn"
+  },
+  {
+    "name": "sing",
+    "trans": [
+      "v.唱歌"
+    ],
+    "usphone": "sɪŋ",
+    "ukphone": "sɪŋ"
+  },
+  {
+    "name": "turn",
+    "trans": [
+      "转动，旋转；翻动，翻转；变得，变成"
+    ],
+    "usphone": "tɜːn",
+    "ukphone": "tɜːrn"
+  },
+  {
+    "name": "ride",
+    "trans": [
+      "v.骑车(马)"
+    ],
+    "usphone": "raɪd",
+    "ukphone": "raɪd"
+  },
+  {
+    "name": "walk",
+    "trans": [
+      "v. 步行，走路；陪...散步；遛（狗等）",
+      "n. 步行，散步；步态，走路方式"
+    ],
+    "usphone": "wɔːk",
+    "ukphone": "wɔːk"
   }
 ]
