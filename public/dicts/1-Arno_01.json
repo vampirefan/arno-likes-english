@@ -176,5 +176,101 @@
     ],
     "usphone": "wɔːk",
     "ukphone": "wɔːk"
+  },
+  {
+    "name": "star",
+    "trans": [
+      "n. 星星，明星"
+    ],
+    "usphone": "stɑːr",
+    "ukphone": "stɑː(r)"
+  },
+  {
+    "name": "stripe",
+    "trans": [
+      "n. 条纹"
+    ],
+    "usphone": "straɪp",
+    "ukphone": "straɪp"
+  },
+  {
+    "name": "scar",
+    "trans": [
+      "n. 伤疤"
+    ],
+    "usphone": "skɑː(r)",
+    "ukphone": "skɑːr"
+  },
+  {
+    "name": "scary",
+    "trans": [
+      "adj. 可怕的"
+    ],
+    "usphone": "skeri",
+    "ukphone": "skeəri"
+  },
+  {
+    "name": "special",
+    "trans": [
+      "adj. 特别的"
+    ],
+    "usphone": "ˈspeʃ(ə)l",
+    "ukphone": "ˈspeʃ(ə)l"
+  },
+  {
+    "name": "sky",
+    "trans": [
+      "n. 天，天空"
+    ],
+    "usphone": "skaɪ",
+    "ukphone": "skaɪ"
+  },
+  {
+    "name": "spring",
+    "trans": [
+      "n. 春天，泉水"
+    ],
+    "usphone": "sprɪŋ",
+    "ukphone": "sprɪŋ"
+  },
+  {
+    "name": "scream",
+    "trans": [
+      "v. 尖叫"
+    ],
+    "usphone": "skriːm",
+    "ukphone": "skriːm"
+  },
+  {
+    "name": "stag",
+    "trans": [
+      "n. 牡鹿"
+    ],
+    "usphone": "stæɡ",
+    "ukphone": "stæɡ"
+  },
+  {
+    "name": "square",
+    "trans": [
+      "n. 正方形"
+    ],
+    "usphone": "skwer",
+    "ukphone": "skweə(r)"
+  },
+  {
+    "name": "splash",
+    "trans": [
+      "v. 泼洒"
+    ],
+    "usphone": "splæʃ",
+    "ukphone": "splæʃ"
+  },
+  {
+    "name": "skate",
+    "trans": [
+      "v. 滑冰，溜冰；在滑板上滑行"
+    ],
+    "usphone": "skeɪt",
+    "ukphone": "skeɪt"
   }
 ]
