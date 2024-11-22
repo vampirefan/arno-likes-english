@@ -14,5 +14,5 @@ export const CONFETTI_DEFAULTS = {
 
 export const defaultFontSizeConfig = {
   foreignFont: 78,
-  translateFont: 28,
+  translateFont: 22,
 }
