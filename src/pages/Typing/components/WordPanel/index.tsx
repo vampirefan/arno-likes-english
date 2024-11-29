@@ -12,6 +12,7 @@ import type { Word } from '@/typings'
 import { useAtomValue, useSetAtom } from 'jotai'
 import { useCallback, useContext, useMemo, useState } from 'react'
 import { useHotkeys } from 'react-hotkeys-hook'
+import VideoDisplay from './components/VideoDisplay'
 
 export default function WordPanel() {
   // eslint-disable-next-line  @typescript-eslint/no-non-null-assertion
@@ -181,6 +182,7 @@ export default function WordPanel() {
                 onMouseLeave={() => handleShowTranslation(false)}
               />
               <ImageDisplay word={currentWord.name} />
+              {/* <VideoDisplay word={currentWord.name} /> */}
             </div>
           </div>
         )}

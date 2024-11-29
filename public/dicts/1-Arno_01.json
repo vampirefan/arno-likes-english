@@ -272,5 +272,77 @@
     ],
     "usphone": "skeɪt",
     "ukphone": "skeɪt"
+  },
+  {
+    "name": "chip",
+    "trans": [
+      "n. 炸薯条，炸薯片；芯片；（物品）薄片；"
+    ],
+    "ukphone": "tʃɪp",
+    "usphone": "tʃɪp"
+  },
+  {
+    "name": "kitchen",
+    "trans": [
+      "n. 厨房；一套厨具"
+    ],
+    "ukphone": "ˈkɪtʃɪn",
+    "usphone": "ˈkɪtʃɪn"
+  },
+  {
+    "name": "whale",
+    "trans": [
+      "n. 鲸"
+    ],
+    "ukphone": "weɪl",
+    "usphone": "weɪl"
+  },
+  {
+    "name": "photo",
+    "trans": [
+      "n. 照片"
+    ],
+    "ukphone": "ˈfəʊtəʊ",
+    "usphone": "ˈfoʊtoʊ"
+  },
+  {
+    "name": "shore",
+    "trans": [
+      "n.（海、湖或大河的）滨，岸"
+    ],
+    "ukphone": "ʃɔː(r) ",
+    "usphone": "ʃɔːr"
+  },
+  {
+    "name": "dolphin",
+    "trans": [
+      "n.海豚"
+    ],
+    "ukphone": "ˈdɒlfɪn",
+    "usphone": "ˈdɑːlfɪn"
+  },
+  {
+    "name": "shell",
+    "trans": [
+      "n.贝壳，（蛋、坚果、某些种子和某些动物的）壳"
+    ],
+    "ukphone": "ʃel",
+    "usphone": "ʃel"
+  },
+  {
+    "name": "laugh",
+    "trans": [
+      "v.笑，发笑；嘲笑"
+    ],
+    "ukphone": "lɑːf",
+    "usphone": "læf"
+  },
+  {
+    "name": "cough",
+    "trans": [
+      "v.咳嗽；发出咳嗽般的声音"
+    ],
+    "ukphone": "kɒf",
+    "usphone": "kɔːf"
   }
 ]
