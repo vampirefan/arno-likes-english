@@ -3,5 +3,8 @@
     "package.json",
     "src/resources/dictionary.ts",
     "public/dicts"
+  ],
+  "cSpell.words": [
+    "Consolas"
   ]
 }

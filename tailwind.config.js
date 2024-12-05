@@ -3,6 +3,10 @@ module.exports = {
   darkMode: ['class'],
   content: ['./src/**/*.{js,jsx,ts,tsx}', './index.html'],
   theme: {
+    fontFamily: {
+      'mono': ['ui-monospace', 'LXGW WenKai', 'Monaco', 'Consolas',
+        'Liberation Mono', 'Courier New', 'monospace'],
+    },
     extend: {
       colors: {
         primary: '#6366f1',

@@ -285,7 +285,7 @@ export default function WordComponent({ word, onFinish }: { word: Word; onFinish
       <InputHandler updateInput={updateInput} />
       <div
         lang={currentLanguageCategory !== 'code' ? currentLanguageCategory : 'en'}
-        className="flex flex-col items-center justify-center pb-1 pt-4"
+        className="flex flex-col items-center justify-center pb-1 pt-1"
       >
         {['romaji', 'hapin'].includes(currentLanguage) && word.notation && <Notation notation={word.notation} />}
         <div

@@ -344,5 +344,135 @@
     ],
     "ukphone": "kɒf",
     "usphone": "kɔːf"
+  },
+  {
+    "name": "ache",
+    "trans": [
+      "n. （身体某部位的）疼痛；"
+    ],
+    "ukphone": "eɪk",
+    "usphone": "eɪk"
+  },
+  {
+    "name": "stomach",
+    "trans": [
+      "n.胃；腹部；"
+    ],
+    "ukphone": "ˈstʌmək",
+    "usphone": "ˈstʌmək"
+  },
+  {
+    "name": "comb",
+    "trans": [
+      "n.梳子；梳理；"
+    ],
+    "ukphone": "kəʊm",
+    "usphone": "koʊm"
+  },
+  {
+    "name": "lamb",
+    "trans": [
+      "n.羔羊，小羊；羊羔肉；"
+    ],
+    "ukphone": "læm",
+    "usphone": "læm"
+  },
+  {
+    "name": "wrist",
+    "trans": [
+      "n.手腕，腕关节；"
+    ],
+    "ukphone": "rɪst",
+    "usphone": "rɪst"
+  },
+  {
+    "name": "wrestle",
+    "trans": [
+      "v.（与某人）摔跤，扭打"
+    ],
+    "ukphone": "ˈres(ə)l",
+    "usphone": "ˈres(ə)l"
+  },
+  {
+    "name": "castle",
+    "trans": [
+      "n.城堡，堡垒；",
+      "v.（国际象棋中）王车易位；置……于城堡中"
+    ],
+    "ukphone": "ˈkɑːs(ə)l",
+    "usphone": "ˈkæs(ə)l"
+  }, {
+    "name": "whistle",
+    "trans": [
+      "n.哨子；口哨声；哨子声；（火车、船或工厂等地的）汽笛，警笛",
+      "v.吹口哨，用口哨吹奏（曲调）；"
+    ],
+    "ukphone": "ˈwɪs(ə)l",
+    "usphone": "ˈwɪs(ə)l"
+  }, {
+    "name": "knee",
+    "trans": [
+      "n.膝盖，膝关节；",
+      "v.用膝盖顶（撞）"
+    ],
+    "ukphone": "niː",
+    "usphone": "niː"
+  }, {
+    "name": "knock",
+    "trans": [
+      "n.敲打声，（尤指）敲门声；打击，捶击，撞击；",
+      "v.敲，击；碰撞，碰倒；"
+    ],
+    "ukphone": "nɒk",
+    "usphone": "nɑːk"
+  }, {
+    "name": "moving",
+    "trans": [
+      "v.（使）改变位置，（使）移动；搬家，搬迁；"
+    ],
+    "ukphone": "ˈmuːvɪŋ",
+    "usphone": "ˈmuːvɪŋ"
+  }, {
+    "name": "spin",
+    "trans": [
+      "v.旋转"
+    ],
+    "ukphone": "spɪn",
+    "usphone": "spɪn"
+  }, {
+    "name": "wheels",
+    "trans": [
+      "n.[车辆]车轮（wheel 的复数）；"
+    ],
+    "ukphone": "wiːlz",
+    "usphone": "wiːlz"
+  }, {
+    "name": "push",
+    "trans": [
+      "v.推；按；"
+    ],
+    "ukphone": "pʊʃ",
+    "usphone": "pʊʃ"
+  }, {
+    "name": "buttons",
+    "trans": [
+      "n.按钮（button 的复数形式）；纽扣"
+    ],
+    "ukphone": "ˈbʌtnz",
+    "usphone": "ˈbʌtnz"
+  }, {
+    "name": "wait",
+    "trans": [
+      "v.等候；盼望，期待；推迟，延缓；"
+    ],
+    "ukphone": "weɪt",
+    "usphone": "weɪt"
+  }, {
+    "name": "again",
+    "trans": [
+      "adv.再一次；"
+    ],
+    "ukphone": "əˈɡen",
+    "usphone": "əˈɡen"
   }
 ]
