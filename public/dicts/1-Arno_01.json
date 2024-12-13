@@ -1,5 +1,102 @@
 [
   {
+    "name": "bright",
+    "trans": [
+      "adj.明亮的，聪明的，光明的，有希望的"
+    ],
+    "ukphone": "braɪt",
+    "usphone": "braɪt"
+  },
+  {
+    "name": "brave",
+    "trans": [
+      "adj.勇敢的"
+    ],
+    "ukphone": "breɪv",
+    "usphone": "breɪv"
+  },
+  {
+    "name": "bride",
+    "trans": [
+      "n.新娘，即将（或刚）结婚的女子"
+    ],
+    "ukphone": "braɪd",
+    "usphone": "braɪd"
+  },
+  {
+    "name": "prince",
+    "trans": [
+      "n.王子"
+    ],
+    "ukphone": "prɪns",
+    "usphone": "prɪns"
+  },
+  {
+    "name": "crown",
+    "trans": [
+      "n.王冠"
+    ],
+    "ukphone": "kraʊn",
+    "usphone": "kraʊn"
+  },
+  {
+    "name": "pretty",
+    "trans": [
+      "adj.漂亮的，标致的"
+    ],
+    "ukphone": "ˈprɪti",
+    "usphone": "ˈprɪti"
+  },
+  {
+    "name": "draw",
+    "trans": [
+      "v.绘画，拔出，掏出"
+    ],
+    "ukphone": "drɔː",
+    "usphone": "drɔː"
+  },
+  {
+    "name": "dress",
+    "trans": [
+      "n.衣服",
+      "v.穿衣"
+    ],
+    "ukphone": "dres",
+    "usphone": "dres"
+  },
+  {
+    "name": "friend",
+    "trans": [
+      "n.朋友"
+    ],
+    "ukphone": "frend",
+    "usphone": "frend"
+  },
+  {
+    "name": "drum",
+    "trans": [
+      "n.鼓"
+    ],
+    "ukphone": "drʌm",
+    "usphone": "drʌm"
+  },
+  {
+    "name": "cry",
+    "trans": [
+      "v.哭"
+    ],
+    "ukphone": "kraɪ",
+    "usphone": "kraɪ"
+  },
+  {
+    "name": "brush",
+    "trans": [
+      "n.刷子"
+    ],
+    "ukphone": "brʌʃ",
+    "usphone": "brʌʃ"
+  },
+  {
     "name": "can",
     "trans": [
       "conj. 能， 可以"
@@ -401,7 +498,8 @@
     ],
     "ukphone": "ˈkɑːs(ə)l",
     "usphone": "ˈkæs(ə)l"
-  }, {
+  },
+  {
     "name": "whistle",
     "trans": [
       "n.哨子；口哨声；哨子声；（火车、船或工厂等地的）汽笛，警笛",
@@ -409,7 +507,8 @@
     ],
     "ukphone": "ˈwɪs(ə)l",
     "usphone": "ˈwɪs(ə)l"
-  }, {
+  },
+  {
     "name": "knee",
     "trans": [
       "n.膝盖，膝关节；",
@@ -417,7 +516,8 @@
     ],
     "ukphone": "niː",
     "usphone": "niː"
-  }, {
+  },
+  {
     "name": "knock",
     "trans": [
       "n.敲打声，（尤指）敲门声；打击，捶击，撞击；",
@@ -425,49 +525,56 @@
     ],
     "ukphone": "nɒk",
     "usphone": "nɑːk"
-  }, {
+  },
+  {
     "name": "moving",
     "trans": [
       "v.（使）改变位置，（使）移动；搬家，搬迁；"
     ],
     "ukphone": "ˈmuːvɪŋ",
     "usphone": "ˈmuːvɪŋ"
-  }, {
+  },
+  {
     "name": "spin",
     "trans": [
       "v.旋转"
     ],
     "ukphone": "spɪn",
     "usphone": "spɪn"
-  }, {
+  },
+  {
     "name": "wheels",
     "trans": [
       "n.[车辆]车轮（wheel 的复数）；"
     ],
     "ukphone": "wiːlz",
     "usphone": "wiːlz"
-  }, {
+  },
+  {
     "name": "push",
     "trans": [
       "v.推；按；"
     ],
     "ukphone": "pʊʃ",
     "usphone": "pʊʃ"
-  }, {
+  },
+  {
     "name": "buttons",
     "trans": [
       "n.按钮（button 的复数形式）；纽扣"
     ],
     "ukphone": "ˈbʌtnz",
     "usphone": "ˈbʌtnz"
-  }, {
+  },
+  {
     "name": "wait",
     "trans": [
       "v.等候；盼望，期待；推迟，延缓；"
     ],
     "ukphone": "weɪt",
     "usphone": "weɪt"
-  }, {
+  },
+  {
     "name": "again",
     "trans": [
       "adv.再一次；"
