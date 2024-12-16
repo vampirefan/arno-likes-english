@@ -1,5 +1,85 @@
 [
   {
+    "name": "tiger",
+    "trans": [
+      "n.老虎"
+    ],
+    "ukphone": "ˈtaɪɡər",
+    "usphone": "ˈtaɪɡər"
+  },
+  {
+    "name": "elephant",
+    "trans": [
+      "n.大象"
+    ],
+    "ukphone": "ˈelɪfənt",
+    "usphone": "ˈelɪfənt"
+  },
+  {
+    "name": "frog",
+    "trans": [
+      "n.青蛙"
+    ],
+    "ukphone": "frɒɡ",
+    "usphone": "frɑːɡ"
+  },
+  {
+    "name": "giraffe",
+    "trans": [
+      "n.长颈鹿"
+    ],
+    "ukphone": "ˈdʒɪrəf",
+    "usphone": "ˈdʒɪrəf"
+  },
+  {
+    "name": "parrot",
+    "trans": [
+      "n.鹦鹉"
+    ],
+    "ukphone": "ˈpærət",
+    "usphone": "ˈpærət"
+  },
+  {
+    "name": "crocodile",
+    "trans": [
+      "n.鳄鱼"
+    ],
+    "ukphone": "ˈkrɒkədɪl",
+    "usphone": "ˈkrɑːkədɪl"
+  },
+  {
+    "name": "rhino",
+    "trans": [
+      "n.犀牛"
+    ],
+    "ukphone": "ˈrɪnoʊ",
+    "usphone": "ˈrɪnoʊ"
+  },
+  {
+    "name": "zebra",
+    "trans": [
+      "n.斑马"
+    ],
+    "ukphone": "ˈzɛbrə",
+    "usphone": "ˈzɛbrə"
+  },
+  {
+    "name": "hippo",
+    "trans": [
+      "n.河马"
+    ],
+    "ukphone": "ˈhɪpoʊ",
+    "usphone": "ˈhɪpoʊ"
+  },
+  {
+    "name": "penguin",
+    "trans": [
+      "n.企鹅"
+    ],
+    "ukphone": "ˈpɛŋɡwɪn",
+    "usphone": "ˈpɛŋɡwɪn"
+  },
+  {
     "name": "bright",
     "trans": [
       "adj.明亮的，聪明的，光明的，有希望的"
@@ -109,8 +189,8 @@
     "trans": [
       "n. 沼泽地;湿地"
     ],
-    "usphone": "swɑːmp",
-    "ukphone": "swɒmp"
+    "ukphone": "swɒmp",
+    "usphone": "swɑːmp"
   },
   {
     "name": "smile",
