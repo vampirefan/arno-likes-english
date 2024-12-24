@@ -21,11 +21,12 @@ const ImageDisplay: React.FC<ImageDisplayProps> = ({ word, className }) => {
     const fetchImage = async (query: string) => {
         setLoading(true);
         try {
-            const response = await fetch(`https://pixabay.com/api/?key=${apiKey}&q=${encodeURIComponent(query)}&image_type=photo&per_page=5`);
+            const imageCount = 10
+            const response = await fetch(`https://pixabay.com/api/?key=${apiKey}&q=${encodeURIComponent(query)}&image_type=photo&per_page=` + imageCount);
             const data = await response.json();
-            if (data.hits && data.hits.length > 4) {
+            if (data.hits && data.hits.length > imageCount - 1) {
                 // 这里给个随机数，让每次出现的图片不大一样，增加新鲜感
-                setImageUrl(data.hits[Math.floor(Math.random() * 5)].webformatURL);
+                setImageUrl(data.hits[Math.floor(Math.random() * imageCount)].webformatURL);
                 setLastFetchedWord(query);
             } else {
                 setImageUrl('');

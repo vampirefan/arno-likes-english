@@ -1,10 +1,100 @@
 [
   {
+    "name": "bear",
+    "trans": [
+      "n.熊"
+    ],
+    "ukphone": "beə(r)",
+    "usphone": "ber"
+  },
+  {
+    "name": "feather",
+    "trans": [
+      "n.羽毛"
+    ],
+    "ukphone": "ˈfeðə(r)",
+    "usphone": "ˈfeðər"
+  },
+  {
+    "name": "pear",
+    "trans": [
+      "n.梨"
+    ],
+    "ukphone": "peə(r)",
+    "usphone": "per"
+  },
+  {
+    "name": "share",
+    "trans": [
+      "v.分享，分担",
+      "n.份额，股份；一份，部分"
+    ],
+    "ukphone": "ʃeə(r)",
+    "usphone": "ʃer"
+  },
+  {
+    "name": "care",
+    "trans": [
+      "v.关心，照料；担心，忧虑"
+    ],
+    "ukphone": "keə(r)",
+    "usphone": "ker"
+  },
+  {
+    "name": "scare",
+    "trans": [
+      "v.使惊恐，吓唬；害怕，恐惧",
+      "n.惊吓，惊吓物"
+    ],
+    "ukphone": "skeə(r)",
+    "usphone": "sker"
+  },
+  {
+    "name": "sweater",
+    "trans": [
+      "n.毛衣"
+    ],
+    "ukphone": "ˈswetə(r)",
+    "usphone": "ˈswetər"
+  },
+  {
+    "name": "weather",
+    "trans": [
+      "n.天气"
+    ],
+    "ukphone": "ˈweðə(r)",
+    "usphone": "ˈweðər"
+  },
+  {
+    "name": "pair",
+    "trans": [
+      "n.一双，一对"
+    ],
+    "ukphone": "peə(r)",
+    "usphone": "per"
+  },
+  {
+    "name": "stair",
+    "trans": [
+      "n.楼梯"
+    ],
+    "ukphone": "steə(r)",
+    "usphone": "ster"
+  },
+  {
+    "name": "fair",
+    "trans": [
+      "adj.公平的，公正的"
+    ],
+    "ukphone": "feə(r)",
+    "usphone": "fer"
+  },
+  {
     "name": "tiger",
     "trans": [
       "n.老虎"
     ],
-    "ukphone": "ˈtaɪɡər",
+    "ukphone": "ˈtaɪɡə(r)",
     "usphone": "ˈtaɪɡər"
   },
   {
