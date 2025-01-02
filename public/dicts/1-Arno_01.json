@@ -1,5 +1,77 @@
 [
   {
+    "name": "they",
+    "trans": [
+      "pron.他们；它们；她们"
+    ],
+    "ukphone": "ðeɪ",
+    "usphone": "ðeɪ"
+  },
+  {
+    "name": "south",
+    "trans": [
+      "n.南，（罗盘的）南方"
+    ],
+    "ukphone": "saʊθ",
+    "usphone": "saʊθ"
+  },
+  {
+    "name": "tooth",
+    "trans": [
+      "n.牙，齿"
+    ],
+    "ukphone": "tuːθ",
+    "usphone": "tuːθ"
+  },
+  {
+    "name": "teeth",
+    "trans": [
+      "n.牙齿"
+    ],
+    "ukphone": "tiːθ",
+    "usphone": "tiːθ"
+  },
+  {
+    "name": "sloth",
+    "trans": [
+      "n.懒散，怠惰；树懒"
+    ],
+    "ukphone": "sləʊθ",
+    "usphone": "sloʊθ"
+  },
+  {
+    "name": "bath",
+    "trans": [
+      "n.浴缸，浴盆；洗澡，沐浴；浴室"
+    ],
+    "ukphone": "bɑːθ",
+    "usphone": "bæθ"
+  },
+  {
+    "name": "thin",
+    "trans": [
+      "adj.薄的，细的，瘦的"
+    ],
+    "ukphone": "θɪn",
+    "usphone": "θɪn"
+  },
+  {
+    "name": "thick",
+    "trans": [
+      "adj.厚的"
+    ],
+    "ukphone": "θɪk",
+    "usphone": "θɪk"
+  },
+  {
+    "name": "clothes",
+    "trans": [
+      "n.衣服，衣物"
+    ],
+    "ukphone": "kləʊðz",
+    "usphone": "kloʊðz"
+  },
+  {
     "name": "bear",
     "trans": [
       "n.熊"
@@ -84,7 +156,7 @@
   {
     "name": "fair",
     "trans": [
-      "adj.公平的，公正的"
+      "adj.公平的，公正的，浅色的"
     ],
     "ukphone": "feə(r)",
     "usphone": "fer"
