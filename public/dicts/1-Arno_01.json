@@ -1,5 +1,58 @@
 [
   {
+    "name": "tell",
+    "trans": [
+      "v.告诉，告知；说，讲述"
+    ],
+    "ukphone": "tel",
+    "usphone": "tel"
+  },
+  {
+    "name": "see",
+    "trans": [
+      "v.看见，看到；"
+    ],
+    "ukphone": "siː",
+    "usphone": "siː"
+  },
+  {
+    "name": "all",
+    "trans": [
+      "n.全部，所有",
+      "adj.全部的；每一个的；任何的；尽可能多的",
+      "det.全部；每一个"
+    ],
+    "ukphone": "ɔːl",
+    "usphone": "ɔːl"
+  },
+  {
+    "name": "about",
+    "trans": [
+      "prep.关于，对于",
+      "adv.大约；几乎"
+    ],
+    "ukphone": "əˈbaʊt",
+    "usphone": "əˈbaʊt"
+  },
+  {
+    "name": "animal",
+    "trans": [
+      "adj.动物的；肉体的",
+      "n.动物；兽类；"
+    ],
+    "ukphone": "ˈænɪm(ə)l",
+    "usphone": "ˈænɪm(ə)l"
+  },
+  {
+    "name": "favorite",
+    "trans": [
+      "adj.（同类中）最受喜爱的",
+      "n.受喜爱的人（或事物）"
+    ],
+    "ukphone": "ˈfeɪvərɪt",
+    "usphone": "ˈfeɪvərɪt"
+  },
+  {
     "name": "they",
     "trans": [
       "pron.他们；它们；她们"
