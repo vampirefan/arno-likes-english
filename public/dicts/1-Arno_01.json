@@ -1,5 +1,63 @@
 [
   {
+    "name": "giant",
+    "trans": [
+      "n.巨人",
+      "adj.巨大的，伟大的"
+    ],
+    "ukphone": "ˈdʒaɪənt",
+    "usphone": "ˈdʒaɪənt"
+  },
+  {
+    "name": "ginger",
+    "trans": [
+      "n.生姜；姜（产于东南亚，外表似竹）；姜黄色",
+      "adj.（主要指毛发或动物毛皮）姜黄色的；姜味的"
+    ],
+    "ukphone": "ˈdʒɪndʒə(r)",
+    "usphone": "ˈdʒɪndʒər"
+  },
+  {
+    "name": "city",
+    "trans": [
+      "n.城市，都市；市民"
+    ],
+    "ukphone": "ˈsɪti",
+    "usphone": "ˈsɪti"
+  },
+  {
+    "name": "village",
+    "trans": [
+      "n.乡村，村庄；在乡村的，乡村的；村民"
+    ],
+    "ukphone": "ˈvɪlɪdʒ",
+    "usphone": "ˈvɪlɪdʒ"
+  },
+  {
+    "name": "bicycle",
+    "trans": [
+      "n.单车，自行车"
+    ],
+    "ukphone": "ˈbaɪsɪk(ə)l",
+    "usphone": "ˈbaɪsɪkl"
+  },
+  {
+    "name": "mouse",
+    "trans": [
+      "n.老鼠；鼠标"
+    ],
+    "ukphone": "maʊs",
+    "usphone": "maʊs"
+  },
+  {
+    "name": "mice",
+    "trans": [
+      "n.多只老鼠 (mouse 的复数)"
+    ],
+    "ukphone": "maɪs",
+    "usphone": "maɪs"
+  },
+  {
     "name": "tell",
     "trans": [
       "v.告诉，告知；说，讲述"
