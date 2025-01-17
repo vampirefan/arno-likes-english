@@ -1,5 +1,180 @@
 [
   {
+    "name": "kill",
+    "trans": [
+      "v.杀死；扼杀，终止"
+    ],
+    "ukphone": "kɪl",
+    "usphone": "kɪl"
+  },
+  {
+    "name": "mill",
+    "trans": [
+      "n.磨坊，磨粉厂；工厂，制造厂"
+    ],
+    "ukphone": "mɪl",
+    "usphone": "mɪl"
+  },
+  {
+    "name": "hill",
+    "trans": [
+      "n.山丘，小山；（道路的）斜坡；土堆，小堆"
+    ],
+    "ukphone": "hɪl",
+    "usphone": "hɪl"
+  },
+  {
+    "name": "up",
+    "trans": [
+      "adv.向上，由低向高；到楼上；（太阳）升起；在高处；面朝上，面朝天"
+    ],
+    "ukphone": "ʌp",
+    "usphone": "ʌp"
+  },
+  {
+    "name": "sit",
+    "trans": [
+      "v.坐下"
+    ],
+    "ukphone": "sɪt",
+    "usphone": "sɪt"
+  },
+  {
+    "name": "down",
+    "trans": [
+      "adv.朝下，向下；（坐）下，（躺）下"
+    ],
+    "ukphone": "daʊn",
+    "usphone": "daʊn"
+  },
+  {
+    "name": "fall",
+    "trans": [
+      "adv.降落，落下；跌倒，倒塌",
+      "n.落下，跌倒；秋天，秋季"
+    ],
+    "ukphone": "fɔːl",
+    "usphone": "fɔːl"
+  },
+  {
+    "name": "stroll",
+    "trans": [
+      "v.散步，闲逛"
+    ],
+    "ukphone": "strəʊl",
+    "usphone": "stroʊl"
+  },
+  {
+    "name": "wall",
+    "trans": [
+      "n.城墙，围墙"
+    ],
+    "ukphone": "wɔːl",
+    "usphone": "wɔːl"
+  },
+  {
+    "name": "well",
+    "trans": [
+      "n.水井，油井，气井；楼梯井，电梯井道",
+      "adj.健康的；令人满意的"
+    ],
+    "ukphone": "wel",
+    "usphone": "wel"
+  },
+  {
+    "name": "bull",
+    "trans": [
+      "n.公牛"
+    ],
+    "ukphone": "bʊl",
+    "usphone": "bʊl"
+  },
+  {
+    "name": "full",
+    "trans": [
+      "adj.满的，满是……的；饱的；最大量的；完整的，详尽的；足足的",
+      "v.装满，使充满"
+    ],
+    "ukphone": "fʊl",
+    "usphone": "fʊl"
+  },
+  {
+    "name": "candle",
+    "trans": [
+      "n.蜡烛；旧烛光"
+    ],
+    "ukphone": "ˈkænd(ə)l",
+    "usphone": "ˈkænd(ə)l"
+  },
+  {
+    "name": "eagle",
+    "trans": [
+      "n.鹰，雕"
+    ],
+    "ukphone": "ˈiːɡ(ə)l",
+    "usphone": "ˈiːɡ(ə)l"
+  },
+  {
+    "name": "saddle",
+    "trans": [
+      "n.鞍，马鞍"
+    ],
+    "ukphone": "ˈsæd(ə)l",
+    "usphone": "ˈsæd(ə)l"
+  },
+  {
+    "name": "kettle",
+    "trans": [
+      "n.水壶；锅"
+    ],
+    "ukphone": "ˈket(ə)l",
+    "usphone": "ˈket(ə)l"
+  },
+  {
+    "name": "bubble",
+    "trans": [
+      "n.气泡，泡沫",
+      "v.冒泡，沸腾；发出冒泡的声音；忙碌，活跃；兴奋，激动"
+    ],
+    "ukphone": "ˈbʌb(ə)l",
+    "usphone": "ˈbʌb(ə)l"
+  },
+  {
+    "name": "puzzle",
+    "trans": [
+      "n.测验智力（或知识）的游戏（或玩具，问题）；拼图游戏，拼图玩具，难题",
+      "v.使困惑，使迷惑"
+    ],
+    "ukphone": "ˈpʌz(ə)l",
+    "usphone": "ˈbʌb(ə)l"
+  },
+  {
+    "name": "little",
+    "trans": [
+      "adj.小的，比较小的；年幼的；短暂的"
+    ],
+    "ukphone": "ˈlɪt(ə)l",
+    "usphone": "ˈlɪt(ə)l"
+  },
+  {
+    "name": "circle",
+    "trans": [
+      "n.圆，圆形物；圈子",
+      "v.盘旋，环行；围绕，圈起"
+    ],
+    "ukphone": "ˈsɜːk(ə)l",
+    "usphone": "ˈsɜːk(ə)l"
+  },
+  {
+    "name": "marble",
+    "trans": [
+      "n.大理石",
+      "v.把……弄上大理石花纹"
+    ],
+    "ukphone": "ˈmɑːb(ə)l",
+    "usphone": "ˈmɑːrbl"
+  },
+  {
     "name": "giant",
     "trans": [
       "n.巨人",
