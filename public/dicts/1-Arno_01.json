@@ -1,5 +1,77 @@
 [
   {
+    "name": "colorful",
+    "trans": [
+      "adj.华美的；有趣的；富有色彩的"
+    ],
+    "ukphone": "ˈkʌləf(ə)l",
+    "usphone": "ˈkʌlərf(ə)l"
+  },
+  {
+    "name": "helpful",
+    "trans": [
+      "adj.有帮助的，有用的；愿意帮忙的"
+    ],
+    "ukphone": "ˈhelpf(ə)l",
+    "usphone": "ˈhelpf(ə)l"
+  },
+  {
+    "name": "careful",
+    "trans": [
+      "adj.仔细的，小心的；谨慎的，周密的"
+    ],
+    "ukphone": "ˈkeəf(ə)l",
+    "usphone": "ˈkerf(ə)l"
+  },
+  {
+    "name": "beautiful",
+    "trans": [
+      "adj.美丽的，漂亮的；令人愉悦的，美妙的"
+    ],
+    "ukphone": "ˈbjuːtɪf(ə)l",
+    "usphone": "ˈbjuːtɪf(ə)l"
+  },
+  {
+    "name": "powerful",
+    "trans": [
+      "adj.强大的，有影响力的；大功率的，高效能的"
+    ],
+    "ukphone": "ˈpaʊəf(ə)l",
+    "usphone": "ˈpaʊərf(ə)l"
+  },
+  {
+    "name": "famous",
+    "trans": [
+      "adj.著名的，出名的"
+    ],
+    "ukphone": "ˈfeɪməs",
+    "usphone": "ˈfeɪməs"
+  },
+  {
+    "name": "dangerous",
+    "trans": [
+      "adj.危险的，有威胁的"
+    ],
+    "ukphone": "ˈdeɪndʒərəs",
+    "usphone": "ˈdeɪndʒərəs"
+  },
+  {
+    "name": "nervous",
+    "trans": [
+      "adj.神经紧张的，担忧的，紧张的"
+    ],
+    "ukphone": "ˈnɜːvəs",
+    "usphone": "ˈnɜːrvəs"
+  },
+  {
+    "name": "poison",
+    "trans": [
+      "n.毒药；有害的思想；"
+    ],
+    "ukphone": "ˈpɔɪz(ə)n",
+    "usphone": "ˈpɔɪzn"
+  },
+  {
     "name": "kill",
     "trans": [
       "v.杀死；扼杀，终止"
