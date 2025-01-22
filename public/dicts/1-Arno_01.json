@@ -129,6 +129,86 @@
     "usphone": "fɔːl"
   },
   {
+    "name": "magician",
+    "trans": [
+      "n.魔术师，变戏法的人"
+    ],
+    "ukphone": "məˈdʒɪʃn",
+    "usphone": "məˈdʒɪʃn"
+  },
+  {
+    "name": "musician",
+    "trans": [
+      "n.音乐家，乐师，作曲家"
+    ],
+    "ukphone": "mjuˈzɪʃ(ə)n",
+    "usphone": "mjuˈzɪʃ(ə)n"
+  },
+  {
+    "name": "nation",
+    "trans": [
+      "n.国家，民族；国民"
+    ],
+    "ukphone": "ˈneɪʃ(ə)n",
+    "usphone": "ˈneɪʃ(ə)n"
+  },
+  {
+    "name": "station",
+    "trans": [
+      "n.（公共汽车、火车等的）车站；电视台，广播电台"
+    ],
+    "ukphone": "ˈsteɪʃ(ə)n",
+    "usphone": "ˈsteɪʃ(ə)n"
+  },
+  {
+    "name": "competition",
+    "trans": [
+      "n.竞争；比赛，竞赛；竞争者，对手"
+    ],
+    "ukphone": "ˌkɒmpəˈtɪʃ(ə)n",
+    "usphone": "ˌkɑːmpəˈtɪʃ(ə)n"
+  },
+  {
+    "name": "television",
+    "trans": [
+      "n.电视，电视机；电视业"
+    ],
+    "ukphone": "ˈtelɪvɪʒ(ə)n",
+    "usphone": "ˈtelɪvɪʒ(ə)n"
+  },
+  {
+    "name": "vision",
+    "trans": [
+      "n.幻想，想象；幻觉，幻象；构想，展望；眼力，远见卓识；视力，视觉；视野；美好的人（或事物）；（电视或电影的）图像"
+    ],
+    "ukphone": "ˈvɪʒnn",
+    "usphone": "ˈvɪʒ(ə)n"
+  },
+  {
+    "name": "nature",
+    "trans": [
+      "n.大自然，自然界；性格，秉性；本质，特点；类型，种类"
+    ],
+    "ukphone": "ˈneɪtʃə(r)",
+    "usphone": "ˈneɪtʃər"
+  },
+  {
+    "name": "picture",
+    "trans": [
+      "n.图片，绘画；照片；肖像"
+    ],
+    "ukphone": "ˈpɪktʃə(r)",
+    "usphone": "ˈpɪktʃər"
+  },
+  {
+    "name": "treasure",
+    "trans": [
+      "n.金银财宝，珠宝，财富"
+    ],
+    "ukphone": "ˈtreʒə(r)",
+    "usphone": "ˈtreʒər"
+  },
+  {
     "name": "stroll",
     "trans": [
       "v.散步，闲逛"
