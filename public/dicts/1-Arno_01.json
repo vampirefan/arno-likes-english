@@ -1,5 +1,63 @@
 [
   {
+    "name": "paw",
+    "trans": [
+      "n.（动物的）爪子"
+    ],
+    "ukphone": "pɔː",
+    "usphone": "pɔː"
+  },
+  {
+    "name": "lick",
+    "trans": [
+      "v.舔，舔吃"
+    ],
+    "ukphone": "lɪk",
+    "usphone": "lɪk"
+  },
+  {
+    "name": "safe",
+    "trans": [
+      "adj.安全的，平安的；健康的；谨慎的",
+      "n.保险箱"
+    ],
+    "ukphone": "seɪf",
+    "usphone": "seɪf"
+  },
+  {
+    "name": "flap",
+    "trans": [
+      "n.拍打，拍动"
+    ],
+    "ukphone": "flæp",
+    "usphone": "flæp"
+  },
+  {
+    "name": "stick",
+    "trans": [
+      "n.枯枝，枝条；条状物，棍状物",
+      "v.粘，贴；刺，戳，插"
+    ],
+    "ukphone": "stɪk",
+    "usphone": "stɪk"
+  },
+  {
+    "name": "river",
+    "trans": [
+      "n.河，江"
+    ],
+    "ukphone": "stɪk",
+    "usphone": "ˈrɪvər"
+  },
+  {
+    "name": "crazy",
+    "trans": [
+      "adj.疯狂的；精神失常的；狂热的，迷恋的"
+    ],
+    "ukphone": "ˈkreɪzi",
+    "usphone": "ˈkreɪzi"
+  },
+  {
     "name": "colorful",
     "trans": [
       "adj.华美的；有趣的；富有色彩的"
