@@ -1,5 +1,85 @@
 [
   {
+    "name": "jacket",
+    "trans": [
+      "n. 夹克衫，短上衣；书皮，护封"
+    ],
+    "ukphone": "ˈdʒækɪt",
+    "usphone": "ˈdʒækɪt"
+  },
+  {
+    "name": "sneakers",
+    "trans": [
+      "n. 胶底运动鞋"
+    ],
+    "ukphone": "ˈsniːkəz",
+    "usphone": "ˈsniːkəz"
+  },
+  {
+    "name": "boots",
+    "trans": [
+      "n. 靴子（boot 的复数）"
+    ],
+    "ukphone": "buːts",
+    "usphone": "buːts"
+  },
+  {
+    "name": "pants",
+    "trans": [
+      "n. <美> 裤子，<英> 内裤，短裤"
+    ],
+    "ukphone": "pænts",
+    "usphone": "pænts"
+  },
+  {
+    "name": "shorts",
+    "trans": [
+      "n.短裤"
+    ],
+    "ukphone": "ʃɔːts",
+    "usphone": "ʃɔːrts"
+  },
+  {
+    "name": "skirt",
+    "trans": [
+      "n.女裙，半身裙"
+    ],
+    "ukphone": "skɜːt",
+    "usphone": "skɜːrt"
+  },
+  {
+    "name": "shirt",
+    "trans": [
+      "n.衬衫，恤衫；球衣"
+    ],
+    "ukphone": "ʃɜːt",
+    "usphone": "ʃɜːrt"
+  },
+  {
+    "name": "sweater",
+    "trans": [
+      "n.毛衣"
+    ],
+    "ukphone": "ˈswetə(r)",
+    "usphone": "ˈswetər"
+  },
+  {
+    "name": "hat",
+    "trans": [
+      "n. （常指带檐的）帽子"
+    ],
+    "ukphone": "hæt",
+    "usphone": "hæt"
+  },
+  {
+    "name": "glasses",
+    "trans": [
+      "n. 玻璃杯；眼镜（glass 的复数）"
+    ],
+    "ukphone": "ˈɡlɑːsɪz",
+    "usphone": "ˈɡlæsɪz"
+  },
+  {
     "name": "paw",
     "trans": [
       "n.（动物的）爪子"
@@ -616,14 +696,6 @@
     ],
     "ukphone": "skeə(r)",
     "usphone": "sker"
-  },
-  {
-    "name": "sweater",
-    "trans": [
-      "n.毛衣"
-    ],
-    "ukphone": "ˈswetə(r)",
-    "usphone": "ˈswetər"
   },
   {
     "name": "weather",
