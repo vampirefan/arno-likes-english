@@ -1,5 +1,37 @@
 [
   {
+    "name": "see",
+    "trans": [
+      "v.看见，看到；"
+    ],
+    "ukphone": "siː",
+    "usphone": "siː"
+  },
+  {
+    "name": "gallery",
+    "trans": [
+      "n. 美术馆，画廊；（大厅的）楼座，楼上旁听席"
+    ],
+    "ukphone": "ˈɡæləri",
+    "usphone": "ˈɡæləri"
+  },
+  {
+    "name": "coat",
+    "trans": [
+      "n. 外套，大衣"
+    ],
+    "ukphone": "kəʊt",
+    "usphone": "koʊt"
+  },
+  {
+    "name": "scarf",
+    "trans": [
+      "n. 围巾，披巾，头巾"
+    ],
+    "ukphone": "skɑːf",
+    "usphone": "skɑːrf"
+  },
+  {
     "name": "jacket",
     "trans": [
       "n. 夹克衫，短上衣；书皮，护封"
@@ -529,14 +561,6 @@
     ],
     "ukphone": "tel",
     "usphone": "tel"
-  },
-  {
-    "name": "see",
-    "trans": [
-      "v.看见，看到；"
-    ],
-    "ukphone": "siː",
-    "usphone": "siː"
   },
   {
     "name": "all",

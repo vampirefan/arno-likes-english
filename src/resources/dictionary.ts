@@ -10,7 +10,7 @@ const chinaExam: DictionaryResource[] = [
     category: '中国考试',
     tags: ['小学英语'],
     url: '/dicts/1-Arno_01.json',
-    length: 169,
+    length: 172,
     language: 'en',
     languageCategory: 'en',
   },
