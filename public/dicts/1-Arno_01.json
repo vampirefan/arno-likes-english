@@ -1,8 +1,73 @@
 [
   {
+    "name": "cardboard",
+    "trans": [
+      "n.硬纸板，纸板箱"
+    ],
+    "ukphone": "ˈkɑːdbɔːd",
+    "usphone": "ˈkɑːrdbɔːrd"
+  },
+  {
+    "name": "leaf",
+    "trans": [
+      "n.叶，叶子；纸页，书页；薄金属片"
+    ],
+    "ukphone": "liːf",
+    "usphone": "liːf"
+  },
+  {
+    "name": "leaves",
+    "trans": [
+      "n.树叶，叶片；花瓣（leaf 的复数）"
+    ],
+    "ukphone": "liːvz",
+    "usphone": "liːvz"
+  },
+  {
+    "name": "paper",
+    "trans": [
+      "n.纸；报纸，论文，手纸，卫生纸"
+    ],
+    "ukphone": "ˈpeɪpə(r)",
+    "usphone": "ˈpeɪpər"
+  },
+  {
+    "name": "wood",
+    "trans": [
+      "n.木材，木料，木头；树林，林地"
+    ],
+    "ukphone": "wʊd",
+    "usphone": "wʊd"
+  },
+  {
+    "name": "glass",
+    "trans": [
+      "n.玻璃；玻璃杯"
+    ],
+    "ukphone": "ɡlɑːs",
+    "usphone": "ɡlæs"
+  },
+  {
+    "name": "protect",
+    "trans": [
+      "v.保护，防护"
+    ],
+    "ukphone": "prəˈtekt",
+    "usphone": "prəˈtekt"
+  },
+  {
+    "name": "dump",
+    "trans": [
+      "v.丢弃，扔掉",
+      "n.垃圾场；废料堆场"
+    ],
+    "ukphone": "dʌmp",
+    "usphone": "dʌmp"
+  },
+  {
     "name": "see",
     "trans": [
-      "v.看见，看到；"
+      "v.看见，看到"
     ],
     "ukphone": "siː",
     "usphone": "siː"
