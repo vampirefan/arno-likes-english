@@ -1,5 +1,30 @@
 [
   {
+    "name": "share",
+    "trans": [
+      "v.分享，分担",
+      "n.份额，股份；一份，部分"
+    ],
+    "ukphone": "ʃeə(r)",
+    "usphone": "ʃer"
+  },
+  {
+    "name": "socks",
+    "trans": [
+      "n.袜子"
+    ],
+    "ukphone": "sɒks",
+    "usphone": "sɑːks"
+  },
+  {
+    "name": "pants",
+    "trans": [
+      "n. <美> 裤子，<英> 内裤，短裤"
+    ],
+    "ukphone": "pænts",
+    "usphone": "pænts"
+  },
+  {
     "name": "cardboard",
     "trans": [
       "n.硬纸板，纸板箱"
@@ -119,14 +144,6 @@
     ],
     "ukphone": "buːts",
     "usphone": "buːts"
-  },
-  {
-    "name": "pants",
-    "trans": [
-      "n. <美> 裤子，<英> 内裤，短裤"
-    ],
-    "ukphone": "pænts",
-    "usphone": "pænts"
   },
   {
     "name": "shorts",
@@ -759,15 +776,6 @@
     ],
     "ukphone": "peə(r)",
     "usphone": "per"
-  },
-  {
-    "name": "share",
-    "trans": [
-      "v.分享，分担",
-      "n.份额，股份；一份，部分"
-    ],
-    "ukphone": "ʃeə(r)",
-    "usphone": "ʃer"
   },
   {
     "name": "care",
