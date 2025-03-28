@@ -8,6 +8,22 @@
     "usphone": "nɪt"
   },
   {
+    "name": "yarn",
+    "trans": [
+      "n.（棉、毛等的）纱，纱线，纺线"
+    ],
+    "ukphone": "jɑːn",
+    "usphone": "jɑːrn"
+  },
+  {
+    "name": "shear",
+    "trans": [
+      "v.剪（羊或其他动物的）毛；剪（头发）"
+    ],
+    "ukphone": "ʃɪə(r)",
+    "usphone": "ʃɪr"
+  },
+  {
     "name": "wool",
     "trans": [
       "n.羊毛，动物毛；毛线，绒线"
